@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": ">=13",
+    "next-mdx-remote": "6.0.0",
     "nextra": "workspace:*",
     "nextra-theme-blog": "workspace:*",
     "react": "*",
